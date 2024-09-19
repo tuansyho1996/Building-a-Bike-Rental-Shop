@@ -181,3 +181,4 @@ touch bike-shop.sh
 echo -e "/n~~~~~ Bike Rental Shop ~~~~~\n"
 echo -e "/n~~~~~ Bike Rental Shop ~~~~~\n" > bike-shop.sh
 echo -e "\n~~~~~ Bike Rental Shop ~~~~~\n" > bike-shop.sh
+chmod +x bike-shop.sh
