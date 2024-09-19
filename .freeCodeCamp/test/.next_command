@@ -185,3 +185,4 @@ chmod +x bike-shop.sh
 ./bike-shop.sh
 ./bike-shop.sh
 echo -e "\n1. Rent a bike\n2. Return a bike\n3. Exit"
+./bike-shop.sh
