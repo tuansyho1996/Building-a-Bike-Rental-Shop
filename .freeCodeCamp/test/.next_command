@@ -432,3 +432,5 @@ psql --username=freecodecamp --dbname=postgres
 echo '28 | Mountain'
 echo '28 | Mountain'
 echo '28 | Mountain'
+echo '28 | Mountain'
+echo '28 | Mountain'
