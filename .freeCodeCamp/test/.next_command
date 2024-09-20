@@ -524,3 +524,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 psql --username=freecodecamp --dbname=postgres
 echo "$(echo ' M e ' | sed 's/ $//g')."
 echo "$(echo ' M e ' | sed 's/ $//g')."
+echo "$(echo ' M e ' | sed 's/ *$//g')."
